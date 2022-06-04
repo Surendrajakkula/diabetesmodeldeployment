@@ -8,4 +8,4 @@ numpy
 pandas==1.4.2
 scikit-learn==1.1.1
 Werkzeug
-python==3.9.12
+Python==3.9.12
